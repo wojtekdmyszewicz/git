@@ -2,6 +2,12 @@
 
 https://github.com/thoughtbot/gitsh
 
+## Filtering commmits
+
+narrow it down to 5 search results
+
+git log -n 2000 | grep -C 5 "club"
+
 
 ## Duplicating a repository (Bitbucket, GitHub)
 
