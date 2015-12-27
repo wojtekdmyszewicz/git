@@ -47,12 +47,6 @@ You can see all branches created by using :
 
 <pre>$ git branch</pre>
 
-Which will show :
-
-<pre>* approval_messages
-  master
-  master_clean</pre>
-
 Add a new remote for your branch : 
 
 <pre>$ git remote add [name_of_your_remote] <url></pre>
