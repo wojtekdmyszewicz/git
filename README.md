@@ -32,8 +32,8 @@ Set the push location to your mirror
 git push --mirror
 
 
+## Git your sh*t together
 
-Create the branch on your local machine and switch in this branch : 
 
 <pre>$ git checkout -b [name_of_your_new_branch]</pre>
 
